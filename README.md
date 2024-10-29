@@ -1,12 +1,13 @@
-<h5>
+<h4>
 ## About Me
-## Hi there 👋 I'm Matteo, I'm starting my career as Data Analyst and I will share here my projects! With a strong foundation in statistical analysis and data visualization, I enjoy transforming complex datasets into actionable recommendations. I’m eager to collaborate on projects that tackle real-world challenges and contribute to meaningful outcomes. 
+## Hi there 👋 I'm Matteo, I'm starting my career as Data Analyst and I will share here my projects! With a strong foundation in statistical analysis and data visualization, I enjoy transforming complex datasets into actionable recommendations. I’m eager to collaborate on projects that tackle real-world challenges and contribute to meaningful outcomes.</h4>
 
+<h4>
 ## - 🌱 I’m currently learning through curses and certifications on Data Analysis and Data Science
 ## - 📫 You can check my profile and reach me via LinkedIn at: https://www.linkedin.com/in/matteocore/
 ## - 😄 Pronouns: he/him
 ## - ⚡ Fun fact: I love videogames and worked 15 years for Blizzard Entertainment
-</h5>
+</h4>
 <!--
 **MatData79/MatData79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
