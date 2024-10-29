@@ -1,6 +1,3 @@
-@settings { 
-  font-size: 2;
-}
 ## About Me
 ## Hi there 👋 I'm Matteo, I'm starting my career as Data Analyst and I will share here my projects! With a strong foundation in statistical analysis and data visualization, I enjoy transforming complex datasets into actionable recommendations. I’m eager to collaborate on projects that tackle real-world challenges and contribute to meaningful outcomes. 
 
